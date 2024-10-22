@@ -1,6 +1,6 @@
 i, em, span, b, strong {
     color: green;
-    text-decoration: underline;
+    text-decoration:underline;
 }
 
 ol, ul {
@@ -11,10 +11,17 @@ img {
     width: 100%;
     max-width: 100%;
 }
+
 h1{
 color: red;
 text-align: center;
 }
 .our_banner{
 width: 100%;
+}
+a{
+color: red;
+}
+.myEmail{
+text-decoration: none;
 }
